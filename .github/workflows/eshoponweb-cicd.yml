@@ -12,7 +12,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-federative
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  WEBAPP-NAME: eShop
+  WEBAPP-NAME: eShop-someuniquestring1234
 
 jobs:
   #Build, test and publish .net web project in repository
